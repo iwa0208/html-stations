@@ -2,9 +2,15 @@ div {
     background-color: #fff;
 }
 .card {
-    width: 400px;
+    width: 300px;
     padding: 10px;
+    margin: 10px;
+}
 
+img {
+    width: 288px;
+    height: 182px;
+    margin-bottom: 10px;
 }
 
 p {
@@ -13,15 +19,22 @@ p {
 }
 .card__title {
     color: #282828;
-    size: 14px;
+    font-size: 14px;
 }
 .card__description {
     color: #282828;
-    size: 12px;
+    font-size: 12px;
 }
 
-img {
-    width: 288px;
-    height: 182px;
-    margin-bottom: 10px;
+
+header {
+    background-color: #ffffff;
+}
+
+footer {
+    background-color: #ffffff;
+}
+
+body {
+    background-color: #C4C4C4;
 }
